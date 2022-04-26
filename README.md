@@ -13,6 +13,6 @@
 <li> Center content;
 <li> Apply style on mouse hover;
 <li> Use media queries to make the site responsive;
-<li> Apply different rules to different screens.
-
+<li> Apply different rules to different screens;
+<li> Jump to a specific section of the page referencing the 'href' and 'id' of an element.
 
